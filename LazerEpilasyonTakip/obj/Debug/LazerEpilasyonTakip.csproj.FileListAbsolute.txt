@@ -1,0 +1,12 @@
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.csproj.AssemblyReference.cache
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.Form1.resources
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.Properties.Resources.resources
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.csproj.GenerateResource.cache
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.csproj.CoreCompileInputs.cache
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\bin\Debug\LaserCenterDB.mdf
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\bin\Debug\LaserCenterDB_log.ldf
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\bin\Debug\LazerEpilasyonTakip.exe.config
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\bin\Debug\LazerEpilasyonTakip.exe
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\bin\Debug\LazerEpilasyonTakip.pdb
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.exe
+C:\Users\Gokku\source\repos\LazerEpilasyonTakip\LazerEpilasyonTakip\obj\Debug\LazerEpilasyonTakip.pdb
